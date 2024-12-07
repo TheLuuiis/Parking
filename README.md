@@ -24,8 +24,6 @@ Así, si nuestros cambios se subieron correctamente, los otros podran descargarl
 
 ## Autores ✒️
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-* **Juan Atehortua**
-* **Faber Fernandez**
-* **Jimy Mora**
-* **Ricardo Garcia**
-* **Lady Lozada**
+* **Luis David Gil**
+* **Darwin**
+* **Carlos Havit**
