@@ -1,4 +1,4 @@
-# IU-Parking 🚀
+# Parking 🚀
 Parqueadero para la materia Ingenieria de Software
 
 ## Instalación 📋
