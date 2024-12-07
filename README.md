@@ -10,7 +10,7 @@ Si ya tenemos el proyecto descargado localmente y otra persona ha hecho cambios,
 ```
 git pull origin master
 ```
-_Si hicimos cambios y queremos subirlos, ejecutamos los siguientes comandos_
+Si hicimos cambios y queremos subirlos, ejecutamos los siguientes comandos.
 
 ```
 git add .
