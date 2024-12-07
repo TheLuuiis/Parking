@@ -5,7 +5,7 @@ Parqueadero para la materia Ingenieria de Software
 El primer paso es clonar(descargar) el proyecto, lo primero es abrir la consola y escribir lo siguiente
 ```
 git clone https://github.com/TheLuuiis/Parking.git
-_Si ya tenemos el proyecto descargado localmente y otra persona ha hecho cambios, estos aun no los hemos descargado, para descargar los cambios de otra persona (si hay) ejecutamos lo siguiente_
+Si ya tenemos el proyecto descargado localmente y otra persona ha hecho cambios, estos aun no los hemos descargado, para descargar los cambios de otra persona (si hay) ejecutamos lo siguiente:
 
 ```
 git pull origin master
